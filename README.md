@@ -3,18 +3,18 @@
 
 ---
 
-- 🐧 Spends more time in `htop` than in meetings  
-- 🧠 Forks before talking  
-- 💾 Still believes in the power of `Makefiles`  
-- 🛠️ Building AI stuff / breaking bash scripts for fun  
-- 🧌 Might reboot your server for no reason  
-- 🔥 I build things that break things (intentionally or not)  
-- ⛓️ Breaking loops since `for i in range(1000000)`  
-- ☕ Powered by caffeine and chaos
+- 🐧 spends more time in `htop` than in meetings  
+- 🧠 forks before talking  
+- 💾 still believes in the power of `Makefiles`  
+- 🛠️ building AI stuff / breaking bash scripts for fun  
+- 🧌 might reboot your server for no reason  
+- 🔥 i build things that break things (intentionally or not)  
+- ⛓️ breaking loops since `for i in range(1000000)`  
+- ☕ powered by caffeine + chaos and absolutely nothing
 
 ---
 
-### ⚙️ Some random commands I live by:
+### some random commands i live by:
 
 ```bash
 sudo chown -R me:world /projects
