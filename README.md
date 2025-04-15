@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👨‍💻 linux-ceo
 
-<!--
-**linux-ceo/linux-ceo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *not the CEO you're thinking of*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐧 Spends more time in `htop` than in meetings  
+- 🧠 Forks before talking  
+- 💾 Still believes in the power of `Makefiles`  
+- 🛠️ Building AI stuff / breaking bash scripts for fun  
+- 🧌 Might reboot your server for no reason  
+- 🔥 I build things that break things (intentionally or not)  
+- ⛓️ Breaking loops since `for i in range(1000000)`  
+- ☕ Powered by caffeine and chaos
+
+---
+
+### ⚙️ Some random commands I live by:
+
+```bash
+sudo chown -R me:world /projects
+alias deploy='echo nope'
+curl -sL get-good-at-coding.sh | bash
