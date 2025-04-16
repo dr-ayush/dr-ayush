@@ -1,5 +1,5 @@
 
-> *not the CEO you're thinking of*
+> *i build cool stuff*
 
 ---
 
