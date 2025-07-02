@@ -3,7 +3,7 @@
 
 ---
 
-obsessed.
+You unlocked new Achievements by visiting this profile! Show them off by following this profile from your account.
 
 ---
 
